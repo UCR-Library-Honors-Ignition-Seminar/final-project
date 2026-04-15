@@ -51,8 +51,8 @@ A printed or digital poster displayed during Week 10's open session.
 - Export as PDF for printing
 
 ### Where to print
-- UCR Library printing services *(check Canvas for current hours)*
-- UCR Student Computing Center
+- [UCR Library poster printing services](https://guides.lib.ucr.edu/poster)
+
 
 ### Digital poster
 A digital poster (PDF on a laptop) is also accepted. Canva has free poster templates at [canva.com](https://www.canva.com).
