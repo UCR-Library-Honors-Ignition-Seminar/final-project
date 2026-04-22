@@ -45,17 +45,11 @@ A printed or digital poster displayed during Week 10's open session.
 | **The Work** | Screenshot, photo, or QR code linking to the project |
 | **What I Learned** | 2-3 sentences about the most meaningful discovery |
 
-### Poster specs (if printing)
+### Poster specs 
 - Recommended size: 24" x 36"
 - At least 24pt font for body text
 - Export as PDF for printing
-
-### Where to print
-- [UCR Library poster printing services](https://guides.lib.ucr.edu/poster)
-
-
-### Digital poster
-A digital poster (PDF on a laptop) is also accepted. Canva has free poster templates at [canva.com](https://www.canva.com).
+-  Where to print: {UCR Library poster printing services](https://guides.lib.ucr.edu/poster)
 
 ---
 
