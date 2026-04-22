@@ -74,7 +74,6 @@ Choose one (see [PRESENTATION-GUIDE.md](PRESENTATION-GUIDE.md)):
 |-------------|-----------------|
 | Week 1 (laser cutting) + Week 5 (Twine) | Laser-cut game board for a text adventure |
 | Week 2 (Arduino) + Week 7 (PoseNet) | Gesture-controlled servo installation |
-| Week 3 (3D printing) + Week 6 (Bitsy) | 3D-printed housing for a playable Bitsy game |
 | Week 4 (video) + Week 5 (Tracery) | Generative narration script for a short film |
 | Week 5 (Twine) + Week 6 (p5.js) | Twine story with generative visual backgrounds |
 | Week 6 (p5.js) + Week 7 (ml5) | Sketch that responds to body movement |
