@@ -1,6 +1,19 @@
 name: Check Final Project Submission
 
-on: [push]
+on:
+  push:
+    paths:
+      - 'reflection.md'
+      - 'links.md'
+      - 'process/**'
+      - '**.html'
+      - '**.png'
+      - '**.jpg'
+      - '**.jpeg'
+      - '**.gif'
+      - '**.pdf'
+      - '**.mp4'
+      - '**.svg'
 
 jobs:
   check:
