@@ -1,12 +1,12 @@
 # Final Project: Fabrication and Media Design Capstone
 
-**Weeks 9-10** | Both Instructors
+**Weeks 9–10** | Both Instructors
 
 ---
 
 ## Overview
 
-Your final project is your chance to go beyond the weekly exercises and make something genuinely yours. Combine **at least two skills or technologies** from anywhere in the course — physical fabrication (Weeks 1-4) or computational/digital media (Weeks 5-8) — into one cohesive project.
+Your final project is your chance to go beyond the weekly exercises and make something genuinely yours. Combine **at least two skills or technologies** from anywhere in the course — physical fabrication (Weeks 1–4) or computational/digital media (Weeks 5–8) — into one cohesive project.
 
 You may:
 - **Build something entirely new** using two or more skills together
@@ -14,56 +14,111 @@ You may:
 
 ---
 
-## Requirements
+## Deliverables
 
-### Project
-- Combines **at least 2 distinct skills or tools** from the course
-- Shows clear evidence of **your own creative decision-making**
-- Is **documented** with process notes and screenshots/photos
+You will submit five things for the final project. Each is described in detail below.
 
-### GitHub Repository
-Create a **new public GitHub repository** for your final project (separate from your Classroom repos).
+| # | Deliverable | Where |
+|---|-------------|-------|
+| 1 | Final project files | GitHub repo you create |
+| 2 | Project README | In your project repo |
+| 3 | Final reflection (500 words) | `reflection.md` in your project repo |
+| 4 | Portfolio website | `https://[your-username].github.io` |
+| 5 | Presentation or poster | Week 10 in class |
 
-1. Add all project files
-2. Write a `README.md` explaining:
-   - What you made and why
-   - Which skills you combined
-   - How to view/run/experience it
-3. Include a `process/` folder with 3-5 screenshots or photos showing work in progress
+---
 
-### Final Reflection (500 words)
-Write a `reflection.md` in your project repo answering:
+## Deliverable 1 & 2: Project Repo and README
+
+Create a **new public GitHub repository** for your final project (separate from your weekly Classroom repos). This repo holds everything.
+
+**Your repo must contain:**
+- All project files (code, images, exported files, etc.)
+- A `process/` folder with 3–5 screenshots or photos showing work in progress
+- A `README.md` at the root explaining:
+  - What you made and why
+  - Which skills you combined
+  - How to view, run, or experience it
+
+---
+
+## Deliverable 3: Final Reflection
+
+Write a `reflection.md` file in your project repo (~500 words) answering:
 - What did you make?
-- Why did you choose these particular skills?
+- Why did you choose these particular skills to combine?
 - What worked? What would you do differently?
 - What does this project mean to you?
 
-### GitHub Portfolio Website
-Build a personal portfolio website hosted on **GitHub Pages** at `[your-username].github.io`.
+---
 
-This is your public creative portfolio — the page you can share with anyone, including future employers, grad school applications, or creative collaborators.
+## Deliverable 4: Portfolio Website
 
-**Setup steps:**
-1. Create a new **public** GitHub repo named exactly `[your-username]` (replacing `[your-username]` with your actual GitHub username) — this is your **profile README repo**
-2. Add a `README.md` to that repo with a short bio and links to your work — GitHub renders this automatically on your profile page
-3. Create a **second** repo named exactly `[your-username].github.io`
-4. Add an `index.html` (or `index.md`) to that repo — this becomes your website
-5. Go to that repo → Settings → Pages → set Source to `main` branch → Save
-6. Your site will be live at `https://[your-username].github.io` within a few minutes
+You will build a personal portfolio website hosted for free on **GitHub Pages**. When finished, it will be live at a public URL — something you can share with anyone.
 
-**What your portfolio site should include:**
-- A brief intro: who you are, what this course was about
-- Links to your **final project** repo (and live demo if applicable)
-- Links to at least **2 weekly projects** you are proud of — with a sentence on each explaining what you made
+### What is GitHub Pages?
+
+GitHub Pages turns a GitHub repository into a website automatically. You create a repo with a specific name, add an `index.html` file, and GitHub hosts it as a live site.
+
+### Step 1: Create the repo
+
+1. Go to [github.com](https://github.com) and sign in
+2. Click **+** (top right) → **New repository**
+3. Name the repo exactly: **`[your-username].github.io`** — replacing `[your-username]` with your actual GitHub username
+
+   > **Example:** If your GitHub username is `maria-ucr`, name the repo `maria-ucr.github.io`
+
+4. Set it to **Public**
+5. Click **Create repository**
+
+### Step 2: Add your portfolio page
+
+1. In the new repo, click **Add file** → **Create new file**
+2. Name it `index.html`
+3. Paste in your portfolio page content (see below for how to build it)
+4. Click **Commit changes**
+
+### Step 3: Enable GitHub Pages
+
+1. In the repo, click **Settings** (top menu)
+2. In the left sidebar, click **Pages**
+3. Under **Source**, select **Deploy from a branch**
+4. Set Branch to **main** and folder to **/ (root)**, then click **Save**
+5. Wait 1–2 minutes, then visit `https://[your-username].github.io` — your site is live
+
+### Building your index.html
+
+You do not need to write HTML from scratch. Use AI to help — paste this prompt into Claude, ChatGPT, or your local model:
+
+```
+Please write me a complete, self-contained index.html portfolio page.
+Use only HTML and CSS — no JavaScript, no external libraries.
+The page should include:
+- My name: [your name]
+- A short bio: [2-3 sentences about you and what this course was about]
+- A section called "Final Project" with: [describe your project]
+- A section called "Weekly Work" with links and 1-sentence descriptions of at least 2 projects
+  - [Project 1 name]: [link] — [one sentence]
+  - [Project 2 name]: [link] — [one sentence]
+- Clean, readable CSS styling — your choice of colors
+The file must work when pasted directly into a browser with no other files.
+```
+
+Review the output and personalize it — it should represent you, not just a template.
+
+### What your portfolio site must include
+
+- Your name and a brief intro (who you are, what this course covered)
+- A link to your **final project** repo
+- Links to at least **2 weekly projects** with a sentence on each
 - Optional: any other creative work you want to show
 
-**You can use AI tools to help build your site.** For example: paste your weekly reflections into Claude or ChatGPT and ask it to generate a clean `index.html` portfolio page. You are expected to review and personalize the output — it should represent you, not just a template.
+---
 
-> **Tip:** If your final project is a Twine story, Bitsy game, or p5.js sketch that already runs in the browser, you can embed or link it directly from your portfolio site.
+## Deliverable 5: Presentation or Poster
 
-### Presentation or Poster
 Choose one (see [PRESENTATION-GUIDE.md](PRESENTATION-GUIDE.md)):
-- **Presentation:** 5-7 minutes + demo during Week 10
+- **Presentation:** 5–7 minutes + demo during Week 10
 - **Poster:** Printed or digital poster displayed during Week 10's open session
 
 ---
@@ -80,7 +135,7 @@ Choose one (see [PRESENTATION-GUIDE.md](PRESENTATION-GUIDE.md)):
 | Week 4 (video) + Week 8 (local AI) | Short documentary about the local AI experience |
 | Week 1 (textiles) + Week 8 (AI) | AI-generated patterns printed on fabric |
 
-Cross-half combinations (one skill from Weeks 1-4 + one from Weeks 5-8) are especially encouraged.
+Cross-half combinations (one skill from Weeks 1–4 + one from Weeks 5–8) are especially encouraged.
 
 ---
 
@@ -93,7 +148,7 @@ Cross-half combinations (one skill from Weeks 1-4 + one from Weeks 5-8) are espe
 | Creativity and ambition | 20% | Project shows genuine creative investment; takes a risk |
 | Final reflection | 15% | 500-word reflection engages meaningfully with the project's process and meaning |
 | Presentation/Poster | 10% | Clear, shows the work, answers audience questions |
-| GitHub Portfolio Website | 5% | Live site at `[username].github.io` with bio, final project link, and ≥2 weekly project links |
+| Portfolio website | 5% | Live site at `[username].github.io` with bio, final project link, and ≥2 weekly project links |
 
 ---
 
@@ -104,7 +159,7 @@ Cross-half combinations (one skill from Weeks 1-4 + one from Weeks 5-8) are espe
 | End of Week 8 | Decide on your concept; begin portfolio site setup |
 | Week 9 (Day 1) | Come with your project started |
 | Week 9 (Day 2) | Show progress to instructors; portfolio site should be live |
-| Start of Week 10 | Submit GitHub repo URL + portfolio site URL on Canvas |
+| Start of Week 10 | Submit both URLs on Canvas |
 | Week 10 | Presentations and/or poster session |
 
 ---
@@ -113,17 +168,15 @@ Cross-half combinations (one skill from Weeks 1-4 + one from Weeks 5-8) are espe
 
 Submit **two URLs** on Canvas before Week 10 begins:
 1. Your **final project GitHub repo** URL
-2. Your **GitHub Pages portfolio site** URL (`https://[your-username].github.io`)
-
-Your project repo should contain all project files, `README.md`, `reflection.md`, and a `process/` folder.
+2. Your **portfolio site** URL — `https://[your-username].github.io`
 
 ---
 
 ## Week 9: Work Session
 
-Both instructors will be available to:
+Both instructors will be available during Week 9 to:
 - Give feedback on project concepts
-- Help with technical problems (including GitHub Pages setup)
+- Help with technical problems including GitHub Pages setup
 - Point you toward resources
 
 Come with a clear idea, at least one started file, and questions.
