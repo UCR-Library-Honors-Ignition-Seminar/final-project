@@ -44,7 +44,7 @@ Create a **new public GitHub repository** for your final project (separate from 
 
 ## Deliverable 3: Final Reflection
 
-Write a `reflection.md` file in your project repo (3 pages) answering:
+Write a `reflection.md` file in your project repo (500 words) answering:
 - What did you make?
 - Why did you choose these particular skills to combine?
 - What worked? What would you do differently?
