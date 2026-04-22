@@ -96,7 +96,7 @@ Please write me a complete, self-contained index.html portfolio page.
 Use only HTML and CSS — no JavaScript, no external libraries.
 The page should include:
 - My name: [your name]
-- A short bio: [2-3 sentences about you and what this course was about]
+- A short bio: [2-3 sentences about you and what this page was about]
 - A section called "Final Project" with: [describe your project]
 - A section called "Weekly Work" with links and 1-sentence descriptions of at least 2 projects
   - [Project 1 name]: [link] — [one sentence]
@@ -109,7 +109,7 @@ Review the output and personalize it — it should represent you, not just a tem
 
 ### What your portfolio site must include
 
-- Your name and a brief intro (who you are, what this course covered)
+- Your name and a brief intro
 - A link to your **final project** repo
 - Links to at least **2 weekly projects** with a sentence on each
 - Optional: any other creative work you want to show
