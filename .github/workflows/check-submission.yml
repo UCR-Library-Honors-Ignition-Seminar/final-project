@@ -1,0 +1,56 @@
+name: Check Final Project Submission
+
+on: [push]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check for reflection.md
+        run: |
+          if [ ! -f "reflection.md" ]; then
+            echo "::error::Missing reflection.md — add your 500-word final reflection."
+            exit 1
+          fi
+          echo "reflection.md found"
+
+      - name: Check reflection word count
+        run: |
+          if [ ! -f "reflection.md" ]; then exit 0; fi
+          WORDS=$(wc -w < "reflection.md")
+          echo "Word count: $WORDS"
+          if [ "$WORDS" -lt 450 ]; then
+            echo "::warning::Your reflection.md has $WORDS words. The target is 500 words."
+          else
+            echo "Reflection meets minimum length ($WORDS words)"
+          fi
+
+      - name: Check for process/ folder
+        run: |
+          if [ ! -d "process" ]; then
+            echo "::warning::No process/ folder found. Add 3-5 screenshots or photos showing your work in progress."
+          else
+            FILE_COUNT=$(find process/ -type f | wc -l)
+            if [ "$FILE_COUNT" -eq 0 ]; then
+              echo "::warning::process/ folder is empty. Add at least 3 screenshots or photos."
+            elif [ "$FILE_COUNT" -lt 3 ]; then
+              echo "::warning::process/ has $FILE_COUNT file(s). Aim for at least 3 screenshots or photos."
+            else
+              echo "process/ folder found with $FILE_COUNT file(s)"
+            fi
+          fi
+
+      - name: Check README.md is filled in
+        run: |
+          if [ ! -f "README.md" ]; then
+            echo "::warning::Missing README.md — add a description of what you made, which skills you combined, and how to experience it."
+          else
+            WORDS=$(wc -w < "README.md")
+            if [ "$WORDS" -lt 50 ]; then
+              echo "::warning::README.md looks mostly empty ($WORDS words). Fill it in with what you made, which skills you combined, and how to view it."
+            else
+              echo "README.md found ($WORDS words)"
+            fi
+          fi
