@@ -45,12 +45,13 @@ Create a **new public GitHub repository** for your final project (separate from 
 
 ## Deliverable 3: Final Reflection
 
-Write a `reflection.md` file in your project repo (500 words) answering:
-- What did you make?
-- Why did you choose these particular skills to combine?
-- What worked? What would you do differently?
-- What does this project mean to you?
-- You can also include other reflections.
+Write a `reflection.md` file in your project repo (~500 words) using the [reflection template](reflection-template.md). It has five sections:
+
+1. **What I Made** — describe the project in 2–3 sentences
+2. **Skill Integration** — which skills did you combine, and why those two?
+3. **Process** — what worked, what didn't, what would you do differently?
+4. **Meaning** — what does this project mean to you?
+5. **AI Use** — did you use any AI tools while building this project? How?
 
 ---
 
