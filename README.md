@@ -23,8 +23,9 @@ You will submit five things for the final project. Each is described in detail b
 | 1 | Final project files | GitHub repo you create |
 | 2 | Project README | In your project repo |
 | 3 | Final reflection (500 words) | `reflection.md` in your project repo |
-| 4 | Portfolio website | `https://[your-username].github.io` |
-| 5 | Presentation or poster | Week 10 in class |
+| 4 | Presentation or poster | Week 10 in class |
+
+Your **portfolio website** (`[username].github.io`) is a separate graded component worth 14% of your course grade — instructions are in [Deliverable 4](#deliverable-4-portfolio-website) below.
 
 ---
 
@@ -116,7 +117,7 @@ Review the output and personalize it — it should represent you, not just a tem
 
 ---
 
-## Deliverable 5: Presentation or Poster
+## Deliverable 4: Presentation or Poster
 
 Choose one (see [PRESENTATION-GUIDE.md](PRESENTATION-GUIDE.md)):
 - **Presentation:** 5–7 minutes + demo during Week 10
@@ -147,9 +148,8 @@ Cross-half combinations (one skill from Weeks 1–4 + one from Weeks 5–8) are 
 | Skill integration | 30% | At least 2 skills genuinely combined — not just placed side by side |
 | Process documentation | 20% | GitHub repo shows how the project evolved; process photos/notes included |
 | Creativity and ambition | 20% | Project shows genuine creative investment; takes a risk |
-| Final reflection | 15% | 500-word reflection engages meaningfully with the project's process and meaning |
+| Final reflection | 20% | 500-word reflection engages meaningfully with the project's process and meaning |
 | Presentation/Poster | 10% | Clear, shows the work, answers audience questions |
-| Portfolio website | 5% | Live site at `[username].github.io` with bio, final project link, and ≥2 weekly project links |
 
 ---
 
