@@ -31,7 +31,7 @@ Your **portfolio website** (`[username].github.io`) is a separate graded compone
 
 ## Deliverable 1 & 2: Project Repo and README
 
-Create a **new public GitHub repository** for your final project (separate from your weekly Classroom repos). This repo holds everything.
+Create a **new public GitHub repository** for your final project (separate from your weekly Classroom 50 repos). This repo holds everything.
 
 **Your repo must contain:**
 - All project files (code, images, exported files, etc.)
