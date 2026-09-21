@@ -55,7 +55,15 @@ Write a `reflection.md` file in your project repo (~500 words) using the [reflec
 
 ---
 
-## Deliverable 4: Portfolio Website
+## Deliverable 4: Presentation or Poster
+
+Choose one (see [PRESENTATION-GUIDE.md](PRESENTATION-GUIDE.md)):
+- **Presentation:** 5–7 minutes + demo during Week 10
+- **Poster:** Printed or digital poster displayed during Week 10's open session
+ 
+---
+
+## Deliverable 5: Portfolio Website
 
 You will build a personal portfolio website hosted for free on **GitHub Pages**. When finished, it will be live at a public URL — something you can share with anyone.
 
@@ -115,14 +123,6 @@ Review the output and personalize it — it should represent you, not just a tem
 - A link to your **final project** repo
 - Links to at least **2 weekly projects** with a sentence on each
 - Optional: any other creative work you want to show
-
----
-
-## Deliverable 4: Presentation or Poster
-
-Choose one (see [PRESENTATION-GUIDE.md](PRESENTATION-GUIDE.md)):
-- **Presentation:** 5–7 minutes + demo during Week 10
-- **Poster:** Printed or digital poster displayed during Week 10's open session
 
 ---
 
