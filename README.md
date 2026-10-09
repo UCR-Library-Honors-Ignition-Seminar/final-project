@@ -12,8 +12,6 @@ You may:
 - **Build something entirely new** using two or more skills together
 - **Significantly expand** a project you started in a previous week
 
----
-
 ## Deliverable 1 & 2: Project Repo and README
 
 Create a **new public GitHub repository** for your final project (separate from your weekly Classroom 50 repos). This repo holds everything.
