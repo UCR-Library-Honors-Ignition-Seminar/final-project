@@ -14,12 +14,6 @@ You may:
 
 ---
 
-## Deliverables
-
-You will submit five things for the final project. Each is described in detail below.
-
----
-
 ## Deliverable 1 & 2: Project Repo and README
 
 Create a **new public GitHub repository** for your final project (separate from your weekly Classroom 50 repos). This repo holds everything.
