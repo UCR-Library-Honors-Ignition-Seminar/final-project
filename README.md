@@ -18,15 +18,6 @@ You may:
 
 You will submit five things for the final project. Each is described in detail below.
 
-| # | Deliverable | Where |
-|---|-------------|-------|
-| 1 | Final project files | GitHub repo you create |
-| 2 | Project README | In your project repo |
-| 3 | Final reflection (500 words) | `reflection.md` in your project repo |
-| 4 | Presentation or poster | Week 10 in class |
-
-Your **portfolio website** (`[username].github.io`) is a separate graded component worth 14% of your course grade — instructions are in [Deliverable 4](#deliverable-4-portfolio-website) below.
-
 ---
 
 ## Deliverable 1 & 2: Project Repo and README
