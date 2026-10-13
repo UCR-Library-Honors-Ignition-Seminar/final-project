@@ -53,14 +53,6 @@ A printed or digital poster displayed during Week 10's open session.
 
 ---
 
-## QR Code for Your Project
-
-Add a QR code linking to your GitHub repo or project URL. Free generators:
-- [qr-code-generator.com](https://www.qr-code-generator.com)
-- [qrcodemonkey.com](https://www.qrcodemonkey.com)
-
----
-
 ## Grading: Presentation/Poster (10% of final grade)
 
 | Criterion | Description |
