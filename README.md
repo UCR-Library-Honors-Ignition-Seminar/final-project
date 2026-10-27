@@ -58,10 +58,7 @@ GitHub Pages turns a GitHub repository into a website automatically. You create 
 
 1. Go to [github.com](https://github.com) and sign in
 2. Click **+** (top right) → **New repository**
-3. Name the repo exactly: **`[your-username].github.io`** — replacing `[your-username]` with your actual GitHub username
-
-   > **Example:** If your GitHub username is `maria-ucr`, name the repo `maria-ucr.github.io`
-
+3. Name the repo: your GitHub Page will have the URL **`[your-username].github.io/[your-repository-name]`**
 4. Set it to **Public**
 5. Click **Create repository**
 
